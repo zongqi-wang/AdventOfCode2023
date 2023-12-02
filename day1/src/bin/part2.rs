@@ -78,6 +78,8 @@ where P: AsRef<Path>, {
     Ok(lines)
 }
 
+/////////////////////////////   TESTS   /////////////////////////////
+
 #[cfg(test)]
 mod tests {
     use crate::read_input;
