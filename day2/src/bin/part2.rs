@@ -143,5 +143,4 @@ mod tests {
         let game2 = Game { id: 2, red: 4, green: 2, blue: 6 };
         assert!(game1.contains(&game2));
     }
-
 }
