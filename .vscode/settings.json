@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./day6/Cargo.toml"
+    ]
+}
